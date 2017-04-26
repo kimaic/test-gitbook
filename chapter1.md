@@ -6,9 +6,9 @@ test
 
 $$a = bx^2$$
 
-``` java
+``` csharp
 class test {
-    public static final String aaaa = "aaaaa";
+    public static String aaaa = "aaaaa";
 }
 ```
 
